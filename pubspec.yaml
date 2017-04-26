@@ -1,0 +1,4 @@
+name: dart_future_examples
+
+environment:
+  sdk: ">=1.22.0"
